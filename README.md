@@ -53,7 +53,7 @@
 
 - Navigate to http://127.0.0.1:5555/ on browser to see the welcome message.
 
-- To check a specific model, append the model name to the URL. For example: http://127.0.0.1:5555/Beedle (try any other model in "existing_models")
+- To check a specific model, append the model name to the URL. For example: http://127.0.0.1:5555/M2 (or any other model in "existing_models")
 
 
 ---
